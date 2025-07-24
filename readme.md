@@ -1,23 +1,23 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/My-Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
+This is how you will plan and manage your coursework at MCB. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/Migracode-Barcelona/My-Coursework-Planner/projects?query=is:open) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
 ## 1. How to get set up
 
 #### Forking the My-Coursework-Planner repo
 
-1. Fork [this repo](https://github.com/CodeYourFuture/My-Coursework-Planner/) to your own GitHub
+1. Fork [this repo](https://github.com/Migracode-Barcelona/My-Coursework-Planner/) to your own GitHub
 ![image](images/fork-planner.png)
 2. You should see your own GitHub username under `Owner`
 ![image](images/create-planner-fork.png)
 3. Turn on `issues` in the `Settings` of your forked version of the repo
 ![image](images/fork-settings-issues.png)
 
-***You must fork to your personal Github account. Forks created in the CYF org will be deleted by a bot.***
+***You must fork to your personal Github account. Forks created in the MCB org will be deleted by a bot.***
 
 #### Creating your project board
 
-1. Go to the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
+1. Go to the [example project board](https://github.com/Migracode-Barcelona/My-Coursework-Planner/projects?query=is:open)
 2. Click the three-dot menu, and then select `Make a copy`
 ![image](images/project-board-copy.png)
 3. Make sure your own GitHub username is under `Owner`
@@ -44,11 +44,12 @@ Copy issues for each week or at most for each module. The coursework content is 
 <details>
 <summary>If the Clone button isn't working, expand this for instructions of how to manually clone the issues</summary>
 
-Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/CodeYourFuture/Table-of-Contents).
+Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are can be found in the repo of its module.
 
-1. Go to the module repo
-2. Click on the `Issues` tab
-3. Copy each issue from the module repo to your own coursework repo.
+1. Go to the module repo. Search for the name of the repo in [this link](https://github.com/orgs/Migracode-Barcelona/repositories)
+2. Enter the repo you need ("Onboarding", "Structuring and Testing Data"..)
+3. Click on the `Issues` tab
+4. Copy each issue from the module repo to your own coursework repo.
 
 We have also used the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
 </details>
